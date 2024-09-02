@@ -20,7 +20,7 @@ Transaction ID,Date,Customer ID,Gender,Age,Product Category,Quantity,Price per U
 19,2023-09-16,CUST019,Female,62,Clothing,2,25,50,58-62
 20,2023-11-05,CUST020,Male,22,Clothing,3,300,900,18-22
 21,2023-01-14,CUST021,Female,50,Beauty,1,500,500,48-52
-22,2023-10-15,CUST022,Male,18,Clothing,2,50,100,
+22,2023-10-15,CUST022,Male,18,Clothing,2,50,100,18-22
 23,2023-04-12,CUST023,Female,35,Clothing,4,30,120,33-37
 24,2023-11-29,CUST024,Female,49,Clothing,1,300,300,48-52
 25,2023-12-26,CUST025,Female,64,Beauty,1,50,50,63-64
@@ -35,7 +35,7 @@ Transaction ID,Date,Customer ID,Gender,Age,Product Category,Quantity,Price per U
 34,2023-12-24,CUST034,Female,51,Clothing,3,50,150,48-52
 35,2023-08-05,CUST035,Female,58,Beauty,3,300,900,53-57
 36,2023-06-24,CUST036,Male,52,Beauty,3,300,900,48-52
-37,2023-05-23,CUST037,Female,18,Beauty,3,25,75,
+37,2023-05-23,CUST037,Female,18,Beauty,3,25,75,18-22
 38,2023-03-21,CUST038,Male,38,Beauty,4,50,200,33-37
 39,2023-04-21,CUST039,Male,23,Clothing,4,30,120,18-22
 40,2023-06-22,CUST040,Male,45,Beauty,1,50,50,43-47
@@ -56,11 +56,11 @@ Transaction ID,Date,Customer ID,Gender,Age,Product Category,Quantity,Price per U
 55,2023-10-10,CUST055,Male,31,Beauty,4,30,120,28-32
 56,2023-05-31,CUST056,Female,26,Clothing,3,300,900,23-27
 57,2023-11-18,CUST057,Female,63,Beauty,1,30,30,58-62
-58,2023-11-13,CUST058,Male,18,Clothing,4,300,1200,
+58,2023-11-13,CUST058,Male,18,Clothing,4,300,1200,18-22
 59,2023-07-05,CUST059,Male,62,Clothing,1,50,50,58-62
 60,2023-10-23,CUST060,Male,30,Beauty,3,50,150,28-32
 61,2023-04-09,CUST061,Male,21,Beauty,4,50,200,18-22
-62,2023-12-27,CUST062,Male,18,Beauty,2,50,100,
+62,2023-12-27,CUST062,Male,18,Beauty,2,50,100,18-22
 63,2023-02-05,CUST063,Male,57,Electronics,2,25,50,53-57
 64,2023-01-24,CUST064,Male,49,Clothing,4,25,100,48-52
 65,2023-12-05,CUST065,Male,51,Electronics,4,500,2000,48-52
@@ -72,7 +72,7 @@ Transaction ID,Date,Customer ID,Gender,Age,Product Category,Quantity,Price per U
 71,2023-07-14,CUST071,Female,51,Beauty,4,25,100,48-52
 72,2023-05-23,CUST072,Female,20,Electronics,4,500,2000,18-22
 73,2023-08-21,CUST073,Male,29,Electronics,3,30,90,28-32
-74,2023-11-22,CUST074,Female,18,Beauty,4,500,2000,
+74,2023-11-22,CUST074,Female,18,Beauty,4,500,2000,18-22
 75,2023-07-06,CUST075,Male,61,Beauty,4,50,200,58-62
 76,2023-03-25,CUST076,Female,22,Electronics,2,50,100,18-22
 77,2023-07-09,CUST077,Female,47,Clothing,2,50,100,43-47
@@ -146,7 +146,7 @@ Transaction ID,Date,Customer ID,Gender,Age,Product Category,Quantity,Price per U
 145,2023-11-02,CUST145,Female,39,Clothing,3,25,75,38-42
 146,2023-08-28,CUST146,Male,38,Clothing,4,50,200,33-37
 147,2023-09-28,CUST147,Male,23,Electronics,1,300,300,18-22
-148,2023-05-09,CUST148,Male,18,Clothing,2,30,60,
+148,2023-05-09,CUST148,Male,18,Clothing,2,30,60,18-22
 149,2023-10-11,CUST149,Male,22,Clothing,3,25,75,18-22
 150,2023-01-06,CUST150,Female,58,Electronics,4,30,120,53-57
 151,2023-12-15,CUST151,Male,29,Clothing,1,50,50,28-32
@@ -167,7 +167,7 @@ Transaction ID,Date,Customer ID,Gender,Age,Product Category,Quantity,Price per U
 166,2023-04-02,CUST166,Male,34,Clothing,4,500,2000,33-37
 167,2023-09-17,CUST167,Female,43,Clothing,3,50,150,38-42
 168,2023-02-24,CUST168,Male,53,Clothing,1,300,300,48-52
-169,2023-11-17,CUST169,Male,18,Beauty,3,500,1500,
+169,2023-11-17,CUST169,Male,18,Beauty,3,500,1500,18-22
 170,2023-06-02,CUST170,Female,25,Clothing,2,25,50,23-27
 171,2023-11-24,CUST171,Female,52,Clothing,3,300,900,48-52
 172,2023-09-17,CUST172,Male,32,Beauty,2,25,50,28-32
@@ -281,7 +281,7 @@ Transaction ID,Date,Customer ID,Gender,Age,Product Category,Quantity,Price per U
 280,2023-04-04,CUST280,Female,37,Clothing,3,500,1500,33-37
 281,2023-05-23,CUST281,Female,29,Beauty,4,500,2000,28-32
 282,2023-08-25,CUST282,Female,64,Electronics,4,50,200,63-64
-283,2023-05-08,CUST283,Female,18,Electronics,1,500,500,
+283,2023-05-08,CUST283,Female,18,Electronics,1,500,500,18-22
 284,2023-02-08,CUST284,Male,43,Clothing,4,50,200,38-42
 285,2023-08-15,CUST285,Female,31,Electronics,1,25,25,28-32
 286,2023-10-09,CUST286,Male,55,Electronics,2,25,50,53-57
@@ -303,7 +303,7 @@ Transaction ID,Date,Customer ID,Gender,Age,Product Category,Quantity,Price per U
 302,2023-07-14,CUST302,Male,57,Beauty,2,300,600,53-57
 303,2023-01-02,CUST303,Male,19,Electronics,3,30,90,18-22
 304,2023-07-19,CUST304,Female,37,Electronics,2,30,60,33-37
-305,2023-05-16,CUST305,Female,18,Beauty,1,30,30,
+305,2023-05-16,CUST305,Female,18,Beauty,1,30,30,18-22
 306,2023-08-21,CUST306,Male,54,Electronics,1,50,50,53-57
 307,2023-05-27,CUST307,Female,26,Electronics,2,25,50,23-27
 308,2023-08-05,CUST308,Female,34,Beauty,4,300,1200,33-37
@@ -324,7 +324,7 @@ Transaction ID,Date,Customer ID,Gender,Age,Product Category,Quantity,Price per U
 323,2023-01-26,CUST323,Female,29,Beauty,3,300,900,28-32
 324,2023-10-27,CUST324,Female,52,Electronics,3,50,150,48-52
 325,2023-09-02,CUST325,Female,52,Electronics,2,25,50,48-52
-326,2023-09-15,CUST326,Female,18,Clothing,3,25,75,
+326,2023-09-15,CUST326,Female,18,Clothing,3,25,75,18-22
 327,2023-09-29,CUST327,Male,57,Electronics,3,50,150,53-57
 328,2023-03-22,CUST328,Male,39,Beauty,2,50,100,38-42
 329,2023-01-30,CUST329,Female,46,Electronics,4,25,100,43-47
@@ -459,7 +459,7 @@ Transaction ID,Date,Customer ID,Gender,Age,Product Category,Quantity,Price per U
 458,2023-11-14,CUST458,Female,39,Electronics,4,25,100,38-42
 459,2023-03-21,CUST459,Male,28,Clothing,4,300,1200,23-27
 460,2023-05-02,CUST460,Male,40,Beauty,1,50,50,38-42
-461,2023-03-25,CUST461,Female,18,Beauty,2,500,1000,
+461,2023-03-25,CUST461,Female,18,Beauty,2,500,1000,18-22
 462,2023-04-01,CUST462,Male,63,Electronics,4,300,1200,58-62
 463,2023-07-31,CUST463,Female,54,Beauty,3,500,1500,53-57
 464,2023-01-13,CUST464,Male,38,Electronics,2,300,600,33-37
@@ -467,7 +467,7 @@ Transaction ID,Date,Customer ID,Gender,Age,Product Category,Quantity,Price per U
 466,2023-06-20,CUST466,Male,63,Electronics,4,25,100,58-62
 467,2023-07-30,CUST467,Female,53,Electronics,3,50,150,48-52
 468,2023-12-09,CUST468,Male,40,Electronics,1,25,25,38-42
-469,2023-05-08,CUST469,Male,18,Beauty,3,25,75,
+469,2023-05-08,CUST469,Male,18,Beauty,3,25,75,18-22
 470,2023-05-17,CUST470,Female,57,Clothing,2,500,1000,53-57
 471,2023-03-23,CUST471,Male,32,Clothing,3,50,150,28-32
 472,2023-12-26,CUST472,Female,38,Beauty,3,300,900,33-37
@@ -512,7 +512,7 @@ Transaction ID,Date,Customer ID,Gender,Age,Product Category,Quantity,Price per U
 511,2023-08-12,CUST511,Male,45,Beauty,2,50,100,43-47
 512,2023-11-07,CUST512,Female,57,Beauty,1,25,25,53-57
 513,2023-09-19,CUST513,Male,24,Electronics,4,25,100,23-27
-514,2023-03-01,CUST514,Female,18,Electronics,1,300,300,
+514,2023-03-01,CUST514,Female,18,Electronics,1,300,300,18-22
 515,2023-07-17,CUST515,Female,49,Clothing,3,300,900,48-52
 516,2023-10-23,CUST516,Male,30,Beauty,4,25,100,28-32
 517,2023-04-08,CUST517,Female,47,Clothing,4,25,100,43-47
@@ -528,7 +528,7 @@ Transaction ID,Date,Customer ID,Gender,Age,Product Category,Quantity,Price per U
 527,2023-04-11,CUST527,Male,57,Clothing,2,25,50,53-57
 528,2023-07-06,CUST528,Female,36,Clothing,2,30,60,33-37
 529,2023-08-09,CUST529,Female,35,Clothing,3,50,150,33-37
-530,2023-02-05,CUST530,Female,18,Electronics,4,30,120,
+530,2023-02-05,CUST530,Female,18,Electronics,4,30,120,18-22
 531,2023-12-07,CUST531,Male,31,Electronics,1,500,500,28-32
 532,2023-06-19,CUST532,Female,64,Clothing,4,30,120,63-64
 533,2023-11-16,CUST533,Male,19,Electronics,3,500,1500,18-22
@@ -536,7 +536,7 @@ Transaction ID,Date,Customer ID,Gender,Age,Product Category,Quantity,Price per U
 535,2023-12-06,CUST535,Male,47,Beauty,3,30,90,43-47
 536,2023-03-05,CUST536,Female,55,Beauty,4,30,120,53-57
 537,2023-06-03,CUST537,Female,21,Beauty,1,500,500,18-22
-538,2023-09-17,CUST538,Male,18,Clothing,3,50,150,
+538,2023-09-17,CUST538,Male,18,Clothing,3,50,150,18-22
 539,2023-06-08,CUST539,Male,25,Beauty,1,500,500,23-27
 540,2023-12-08,CUST540,Female,46,Electronics,3,300,900,43-47
 541,2023-07-29,CUST541,Male,56,Beauty,1,500,500,53-57
@@ -554,7 +554,7 @@ Transaction ID,Date,Customer ID,Gender,Age,Product Category,Quantity,Price per U
 553,2023-03-31,CUST553,Male,24,Clothing,4,300,1200,23-27
 554,2023-11-12,CUST554,Female,46,Beauty,3,50,150,43-47
 555,2023-10-19,CUST555,Male,25,Beauty,1,300,300,23-27
-556,2023-06-04,CUST556,Female,18,Electronics,1,50,50,
+556,2023-06-04,CUST556,Female,18,Electronics,1,50,50,18-22
 557,2023-07-27,CUST557,Female,20,Beauty,3,30,90,18-22
 558,2023-10-08,CUST558,Female,41,Clothing,1,25,25,38-42
 559,2023-01-01,CUST559,Female,40,Clothing,4,300,1200,38-42
@@ -593,7 +593,7 @@ Transaction ID,Date,Customer ID,Gender,Age,Product Category,Quantity,Price per U
 592,2023-01-24,CUST592,Female,46,Beauty,4,500,2000,43-47
 593,2023-05-06,CUST593,Male,35,Electronics,2,30,60,33-37
 594,2023-09-01,CUST594,Female,19,Electronics,2,300,600,18-22
-595,2023-11-09,CUST595,Female,18,Clothing,4,500,2000,
+595,2023-11-09,CUST595,Female,18,Clothing,4,500,2000,18-22
 596,2023-02-07,CUST596,Female,64,Electronics,1,300,300,63-64
 597,2023-08-22,CUST597,Male,22,Beauty,4,300,1200,18-22
 598,2023-08-01,CUST598,Male,37,Beauty,4,30,120,33-37
@@ -677,7 +677,7 @@ Transaction ID,Date,Customer ID,Gender,Age,Product Category,Quantity,Price per U
 676,2023-07-19,CUST676,Male,63,Electronics,3,500,1500,58-62
 677,2023-10-27,CUST677,Female,19,Beauty,3,500,1500,18-22
 678,2023-12-23,CUST678,Female,60,Electronics,3,300,900,58-62
-679,2023-01-11,CUST679,Female,18,Beauty,3,30,90,
+679,2023-01-11,CUST679,Female,18,Beauty,3,30,90,18-22
 680,2023-10-22,CUST680,Female,53,Clothing,3,300,900,48-52
 681,2023-07-14,CUST681,Female,43,Electronics,2,30,60,38-42
 682,2023-09-02,CUST682,Male,46,Beauty,4,300,1200,43-47
@@ -712,7 +712,7 @@ Transaction ID,Date,Customer ID,Gender,Age,Product Category,Quantity,Price per U
 711,2023-10-16,CUST711,Male,26,Electronics,3,500,1500,23-27
 712,2023-12-06,CUST712,Female,57,Beauty,2,25,50,53-57
 713,2023-01-14,CUST713,Male,34,Beauty,3,25,75,33-37
-714,2023-02-12,CUST714,Female,18,Clothing,1,500,500,
+714,2023-02-12,CUST714,Female,18,Clothing,1,500,500,18-22
 715,2023-11-26,CUST715,Female,42,Beauty,4,25,100,38-42
 716,2023-08-08,CUST716,Female,60,Clothing,4,300,1200,58-62
 717,2023-03-11,CUST717,Male,57,Clothing,1,500,500,53-57
@@ -835,7 +835,7 @@ Transaction ID,Date,Customer ID,Gender,Age,Product Category,Quantity,Price per U
 834,2023-04-04,CUST834,Female,56,Beauty,2,30,60,53-57
 835,2023-09-07,CUST835,Male,37,Clothing,4,50,200,33-37
 836,2023-04-19,CUST836,Female,22,Clothing,1,50,50,18-22
-837,2023-07-01,CUST837,Male,18,Beauty,3,30,90,
+837,2023-07-01,CUST837,Male,18,Beauty,3,30,90,18-22
 838,2023-05-13,CUST838,Male,47,Electronics,2,300,600,43-47
 839,2023-06-24,CUST839,Female,20,Electronics,4,300,1200,18-22
 840,2023-05-24,CUST840,Male,62,Clothing,2,25,50,58-62
@@ -845,7 +845,7 @@ Transaction ID,Date,Customer ID,Gender,Age,Product Category,Quantity,Price per U
 844,2023-10-12,CUST844,Male,35,Clothing,3,50,150,33-37
 845,2023-01-06,CUST845,Male,54,Clothing,1,500,500,53-57
 846,2023-09-22,CUST846,Male,42,Beauty,1,50,50,38-42
-847,2023-04-08,CUST847,Female,18,Electronics,4,300,1200,
+847,2023-04-08,CUST847,Female,18,Electronics,4,300,1200,18-22
 848,2023-02-13,CUST848,Female,63,Clothing,3,25,75,58-62
 849,2023-05-04,CUST849,Male,32,Clothing,2,25,50,28-32
 850,2023-07-28,CUST850,Female,26,Beauty,2,500,1000,23-27
