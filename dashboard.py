@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 
 warnings.filterwarnings('ignore')
 
-file_path = r"C:\Users\Edwin\Python\bootcamp\Projects\retails\dataset\retail_sales_v2.csv"
+file_path = "./retail_sales_v2.csv"
 df = pd.read_csv(file_path)
 
 st.title('Retail Sales & Customer Demographics Project')
